@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PanDocConverterTool": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\develop\\proximo\\Jarvis.Automation\\wiki"
+    }
+  }
+}
